@@ -9,7 +9,7 @@ The `Data` folder contains the recomended dataset for the task. These are numpy 
 The `Animations` folder contains gifs rendered by the 3D visualization function in the notebook. It is seperated into the following subfolders:
 - `Raw` contains full visualizations of the original datasets.
 - `Reproduced` contains visualizations of a short dance sequence from the test set that the model reproduced. Visualizations for 200, 300 and 400 epochs of training are included.  
-- `Generated` contains visualizatoins of short dance sequences that were randomly generated. Visualizations here are similarly produced for those above three training lengths.
+- `Generated` contains visualizations of short dance sequences that were randomly generated. Visualizations here are similarly produced for those above three training lengths.
 
 The `Parameters` folder contains saved PyTorch parameters for the model when trained for 200, 300, and 400 epochs.
 
